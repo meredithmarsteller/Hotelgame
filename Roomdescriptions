@@ -1,0 +1,29 @@
+LOBBY
+The Lobby is the center of the Hotel. You can move east to the lounge, west to the bar, north to the hallway, or up to the second floor.
+#
+LOUNGE
+You are in the lounge. There is a fireplace with pictures on the mantel and students sitting on the couch.
+#
+BAR
+You are now in the bar. There is a bartender standing at the bar; You have north of you and a doorway east that leads back to the lobby.
+#
+HALL
+A Dead-end hallway, but there is a wand laying on the floor. You can take the wand and return south to the lobby.
+#
+HAll_A
+A Dead-end hallway, but there is a wand laying on the floor. You can return south to the lobby.
+#
+HALL2
+You are now on the second floor in the hallway. You can go west to the bedroom or down back to the lobby. 
+#
+RESTROOM
+The bathroom is filled with a lot of stalls and an over filling trash can. You can look inside the stalls or go south back to the bar.
+#
+RESTROOM_A
+The bathroom is filled with a lot of stalls and an over filling trash can. You can look inside the stalls or go south back to the bar.
+#
+BEDROOM
+The Bedroom has a small bed in the middle with a night stand on the left side and a locked chest at the end of the bed. You can unlock the chest, or go east back into the hallway
+#
+MASTER_BEDROOM
+The Master Bedroom has a desk under the window. There is a large bed up against the wall with two night stands hugging it. On the opposing wall is a long dresser with a tv hanging above it. You can explore the Master Bedroom or go west back to the hallway.
